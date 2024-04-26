@@ -1,2 +1,2 @@
-# AccocksMaps
-Script creating ininerary maps from csv file
+# AcocksMaps
+Script creating itinerary jpg maps from .csv file
